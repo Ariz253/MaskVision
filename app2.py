@@ -239,6 +239,8 @@ def main():
     st.title("😷 MaskVision")
     st.subheader("AI-Powered Real-Time Face-Mask Detection for Safety Compliance")
     st.markdown("<br>", unsafe_allow_html=True)
+    st.info("ℹ️ For best results, upload a clear image with your face centered and unobstructed. Avoid heavy backgrounds or covered faces.")
+
 
     # File uploader
     uploaded_file = st.file_uploader("📸 Upload a face image to analyze", type=["jpg", "jpeg", "png"])
