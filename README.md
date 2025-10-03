@@ -11,7 +11,7 @@ An AI-powered web application that detects whether a person is wearing a face ma
 
 ## 🚀 Live Demo
 
-[Launch Application](#) *(Add your Streamlit Cloud URL here)*
+[MaskVision](https://maskvision.streamlit.app/) 
 
 ## 📋 Prerequisites
 
